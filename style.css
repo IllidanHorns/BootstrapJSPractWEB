@@ -1,0 +1,48 @@
+.header_big_text{
+    font-size: 25px;
+}
+
+.q{
+    align-items: center;
+}
+
+.w{
+    width: 15%;
+}
+
+.ahaha img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+body{
+    margin: 50px;
+}
+header{
+    background-color: greenyellow;
+    max-width: 100%;
+}
+
+.ahaha {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.a {
+    margin-left: -22px;
+}
+
+.dibibi{
+    display: flex;
+    flex-wrap: nowrap !important;
+}
+
+.small_hourse{
+    width: 50px;
+}
+
+.big_horse1{
+    width: 80%;
+}
